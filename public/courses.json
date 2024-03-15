@@ -1,0 +1,74 @@
+[
+    {
+        "id": "001",
+        "title": "Introduction to C Programming",
+        "price": 15000,
+        "credit": 1,
+        "description": "Explore the fundamentals of the C programming language. Learn about variables, data types, control structures, and functions.",
+        "img": "https://i.postimg.cc/gJDHps40/Rectangle-2-2.png"
+    },
+    {
+        "id": "002",
+        "title": "Introduction to Algorithms",
+        "price": 25000,
+        "credit": 2,
+        "description": "Dive into the world of algorithms. Understand various algorithmic techniques and strategies for problem-solving and optimization.",
+        "img": "https://i.postimg.cc/yYw9w2BP/Rectangle-2-3.png"
+    },
+    {
+        "id": "003",
+        "title": "Introduction to C++ for DSA",
+        "price": 10000,
+        "credit": 10,
+        "description": "Get started with C++ programming language specifically tailored for data structures and algorithms. Cover topics like classes, inheritance, and templates.",
+        "img": "https://i.postimg.cc/Jn4BNLc1/Rectangle-2-4.png"
+    },
+    {
+        "id": "004",
+        "title": "Basic Data Structures",
+        "price": 35000,
+        "credit": 5,
+        "description": "Learn the fundamental data structures essential for computer science and programming. Topics include arrays, linked lists, stacks, queues, and trees.",
+        "img": "https://i.postimg.cc/RC2LBWLK/Rectangle-3.png"
+    },
+    {
+        "id": "005",
+        "title": "Introduction to OOP Python",
+        "price": 35000,
+        "credit": 5,
+        "description": "Discover the principles of Object-Oriented Programming (OOP) using Python. Learn about classes, objects, inheritance, and polymorphism.",
+        "img": "https://i.postimg.cc/SR98sGf8/Rectangle-2.png"
+    },
+    {
+        "id": "006",
+        "title": "Software Engineering",
+        "price": 25000,
+        "credit": 2,
+        "description": "Gain insights into the principles and practices of software engineering. Cover topics like software development lifecycle, design patterns, and agile methodologies.",
+        "img": "https://i.postimg.cc/Qt9K4qPP/Rectangle-2-5.png"
+    },
+    {
+        "id": "007",
+        "title": "AWS",
+        "price": 35000,
+        "credit": 5,
+        "description": "Learn how to leverage Amazon Web Services (AWS) for cloud computing. Explore services like EC2, S3, RDS, and Lambda for building scalable and reliable applications.",
+        "img": "https://i.postimg.cc/TYRYh906/Rectangle-3-1.png"
+    },
+    {
+        "id": "008",
+        "title": "Cloud Computing",
+        "price": 19000,
+        "credit": 5,
+        "description": "Understand the concepts and technologies behind cloud computing. Learn about virtualization, distributed systems, containerization, and cloud deployment models.",
+        "img": "https://i.postimg.cc/zXX8qfDD/Rectangle-2-1.png"
+    },
+    {
+        "id": "009",
+        "title": "Database (MySQL)",
+        "price": 20000,
+        "credit": 2,
+        "description": "Master the fundamentals of database management using MySQL. Cover topics like database design, querying data, transactions, and database security.",
+        "img": "https://i.postimg.cc/L82ycqmv/Rectangle-2-6.png"
+    }
+]
